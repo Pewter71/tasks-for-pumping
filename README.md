@@ -5,16 +5,16 @@
 
 ## Запуск
 ```
-
-
-
-```
 git clone https://github.com/Pewter71/tasks-for-pumping.git
 cd tasks-for-pumping
 
 uv sync
 source .venv/bin/activate
 python -m src.main
+
+
+```
+
 ```
 
 После запуска открыть в браузере:
